@@ -24,6 +24,7 @@ Git commands
 - checkout
   - git checkout branch1
 - pull
+  - git pull origin branch1
 - status
   - git status
 - add
@@ -36,6 +37,7 @@ Git commands
 - push
   - git push origin branch1
 - merge
+  - git merge branch1
 
 - reset head
 - cherrypick
