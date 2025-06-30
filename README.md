@@ -23,6 +23,7 @@ Git commands
   - git fetch
 - checkout
   - git checkout branch1
+  - git checkout -b branch3: Create and switch to branch3
 - pull
   - git pull origin branch1
 - status
