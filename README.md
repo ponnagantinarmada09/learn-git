@@ -43,4 +43,15 @@ Git commands
 - cherrypick
 
 
+Git branches in projects
+- main: production code branch
+- staging: production testing branch
+- qa: testers branch
+- development: developers code branch
+
+- feture branches: feat/branchname 
+- bugfix branches: bugfix/branchname
+- hotfix branches: hotfix/branchname
+
+
 
