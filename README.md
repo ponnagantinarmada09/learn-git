@@ -18,11 +18,13 @@ Git commands
   - git config add user.email "narmadaaponnaganti@gmail.com"
   - git config user.name "Narmada P"
 - branch
-  - git branch
+  - git branch: List of all branches
+  - git branch branch4: Creates new branch "branch4"
 - fetch
   - git fetch
 - checkout
-  - git checkout branch1
+  - git checkout branch1: Switch to branch1
+  - git checkout -b branch3: Create and switch to branch3
 - pull
   - git pull origin branch1
 - status
@@ -41,6 +43,17 @@ Git commands
 
 - reset head
 - cherrypick
+
+
+Git branches in projects
+- main: production code branch
+- staging: production testing branch
+- qa: testers branch
+- development: developers code branch
+
+- feture branches: feat/branchname 
+- bugfix branches: bugfix/branchname
+- hotfix branches: hotfix/branchname
 
 
 
