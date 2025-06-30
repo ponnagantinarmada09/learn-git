@@ -27,6 +27,8 @@ Git commands
 - status
   - git status
 - add
+  - git add filepath
+  - git add . => all modified files
 - restore
 - commit
 - push
