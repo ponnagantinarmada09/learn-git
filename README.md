@@ -30,8 +30,11 @@ Git commands
   - git add filepath
   - git add . => all modified files
 - restore
+  - git restore --stage README.md
 - commit
+  - git commit -m "add and restore cmds added"
 - push
+  - git push origin branch1
 - merge
 
 - reset head
